@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mlab": {
+    "host": "ds143737.mlab.com",
+    "port": 43737,
+    "url": "mongodb://htorres:nearsoft@ds143737.mlab.com:43737/android_cuu_movies",
+    "database": "android_cuu_movies",
+    "password": "nearsoft",
+    "name": "mlab",
+    "user": "htorres",
+    "connector": "mongodb"
+  }
+}
